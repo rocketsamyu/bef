@@ -1,4 +1,4 @@
-logo: # add logo name
+logo: logoname# add logo name
 title: Bef - Enjoy Freedom
 description: > # this means to ignore newlines until "baseurl:"
   Write an awesome description for your new site here. You can edit this
@@ -6,7 +6,7 @@ description: > # this means to ignore newlines until "baseurl:"
   Google search results) and in your feed.xml site description.
 permalink: ':title/'
 baseurl: "/" # the subpath of your site, e.g. /blog
-url: "" # the base hostname & protocol for your site, e.g. http://example.com
+url: "https://rocketsamyu.github.io" # the base hostname & protocol for your site, e.g. http://example.com
 
 # Banner settings
 video: mountains.mp4 # add banner video. Add your video file to the folder video
@@ -15,11 +15,11 @@ banner-desc: # add banner description
 
 # Author settings
 author-pic: face.jpg # your photo
-author-name: # your name
+author-name: Samyuktha Mamallan# your name
 about-author: # about author
 email: your-email@domain.com # your email
 phone: (496)-169-6557 # your pnone number
-website: https://dwayne.example.com # you website
+website: https://rocketsamyu.github.io # you website
 
 # Social link
 google_url:    # add url link
