@@ -1,5 +1,5 @@
-logo: RocketSamyu # add logo name
-title: RocketSamyu - Photography
+logo: FocalPoint # add logo name
+title: FocalPoint Photography
 description: > # this means to ignore newlines until "baseurl:"
   Portrait and Nature Photographer based in Austin, Texas.
 permalink: ':title/'
@@ -15,7 +15,7 @@ banner-desc: # add banner description
 author-pic: Samyu.jpeg # your photo
 author-name: Samyuktha Mamallan # your name
 about-author: # about author
-email: your-email@domain.com # your email
+email: contact@focalpoint.photos # your email
 phone: (496)-169-6557 # your pnone number
 website: https://rocketsamyu.github.io # you website
 
