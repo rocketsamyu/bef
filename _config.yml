@@ -1,7 +1,7 @@
 logo: FocalPoint # add logo name
 title: FocalPoint Photography
 description: > # this means to ignore newlines until "baseurl:"
-  Portrait and Nature Photographer based in Austin, Texas.
+  Family and Nature Photographer based in Austin, Texas.
 permalink: ':title/'
 baseurl: "/" # the subpath of your site, e.g. /blog
 url: "https://rocketsamyu.github.io" # the base hostname & protocol for your site, e.g. http://example.com
@@ -20,7 +20,7 @@ phone: (496)-169-6557 # your pnone number
 website: https://rocketsamyu.github.io # you website
 
 # Social link
-instagram_url: sam.y.u # add url link
+instagram_url: www.instagram.com/sam.y.u # add url link
 
 # Disqus
 discus_identifier: mr-brown # add your discus identifier
